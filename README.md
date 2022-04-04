@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
-
 <a href="indexHome.html">Home</a>
 <br>
 <a href="indexAboutUs.html">About us</a>
@@ -20,7 +19,12 @@
 <br>
 
 
+
+
 <body>
+
+
+    
     
 </body>
 </html>
